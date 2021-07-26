@@ -1,0 +1,278 @@
+{
+  "name": "ShibaSwap Default List",
+  "timestamp": "2021-07-21T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 10,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped Fantom",
+      "symbol": "wFTM",
+      "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/WFTM.png"
+    },
+    {
+      "name": "Wrapped Ethereum",
+      "symbol": "wETH",
+      "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/weth.png"
+    },
+    {
+      "name": "Wrapped Bitcoin",
+      "symbol": "wBTC",
+      "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+      "chainId": 250,
+      "decimals": 8,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/wbtc.png"
+    },
+    {
+      "name": "Binance",
+      "symbol": "BNB",
+      "address": "0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/bnb.png"
+    },
+    {
+      "name": "USDC Coin",
+      "symbol": "USDC",
+      "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+      "chainId": 250,
+      "decimals": 6,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/usdc.png"
+    },
+    {
+      "name": "Cream",
+      "symbol": "CREAM",
+      "address": "0x657A1861c15A3deD9AF0B6799a195a249ebdCbc6",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/cream.png"
+    },
+    {
+      "name": "Cover Protocol Governance",
+      "symbol": "COVER",
+      "address": "0xB01E8419d842beebf1b70A7b5f7142abbaf7159D",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/cover.png"
+    },
+    {
+      "name": "Band",
+      "symbol": "BAND",
+      "address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/band.png"
+    },
+    {
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/crv.png"
+    },
+    {
+      "name": "Synthetix Network",
+      "symbol": "SNX",
+      "address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/snx.png"
+    },
+    {
+      "name": "Aave",
+      "symbol": "AAVE",
+      "address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/aave.png"
+    },
+    {
+      "name": "yearn.finance",
+      "symbol": "YFI",
+      "address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/yfi.png"
+    },
+    {
+      "name": "ChainLink",
+      "symbol": "LINK",
+      "address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/link.png"
+    },
+    {
+      "name": "Sushi",
+      "symbol": "SUSHI",
+      "address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/sushi.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/dai.png"
+    },
+    {
+      "name": "IceToken",
+      "symbol": "ICE",
+      "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/ice.png"
+    },
+    {
+      "name": "Badger",
+      "symbol": "BADGER",
+      "address": "0x753fbc5800a8C8e3Fb6DC6415810d627A387Dfc9",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/badger.png"
+    },
+    {
+      "name": "Digg",
+      "symbol": "DIGG",
+      "address": "0x08f6fE8f4dC577CF81E40E03E561d29B8b33E19b",
+      "chainId": 250,
+      "decimals": 9,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/digg.png"
+    },
+    {
+      "name": "Woofy",
+      "symbol": "WOOFY",
+      "address": "0xD0660cD418a64a1d44E9214ad8e459324D8157f1",
+      "chainId": 250,
+      "decimals": 12,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/woofy.png"
+    },
+    {
+      "name": "Anyswap",
+      "symbol": "ANY",
+      "address": "0xdDcb3fFD12750B45d32E084887fdf1aABAb34239",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/any.png"
+    },
+    {
+      "name": "Beefy.Finance",
+      "symbol": "BIFI",
+      "address": "0xd6070ae98b8069de6B494332d1A1a81B6179D960",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/bifi.png"
+    },
+    {
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "address": "0x82f0B8B456c1A451378467398982d4834b6829c1",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/mim.png"
+    },
+    {
+      "name": "ZOO",
+      "symbol": "ZOO",
+      "address": "0x09e145A1D53c0045F41aEEf25D8ff982ae74dD56",
+      "chainId": 250,
+      "decimals": 0,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/zoo.png"
+    },
+    {
+      "name": "Waka.Finance",
+      "symbol": "WAKA",
+      "address": "0xf61ccde1d4bb76ced1daa9d4c429cca83022b08b",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/waka.png"
+    },
+    {
+      "name": "Liquid Driver",
+      "symbol": "LQDR",
+      "address": "0x10b620b2dbac4faa7d7ffd71da486f5d44cd86f9",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/lqdr.png"
+    },
+    {
+      "name": "Frapped USDT",
+      "symbol": "fUSDT",
+      "address": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
+      "chainId": 250,
+      "decimals": 6,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/fUSDT.png"
+    },
+    {
+      "name": "Shiba",
+      "symbol": "Shiba",
+      "address": "0x9ba3e4f84a34df4e08c112e1a0ff148b81655615",
+      "chainId": 250,
+      "decimals": 9,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/shiba.png"
+    },
+    {
+      "name": "BoneToken",
+      "symbol": "BONE",
+      "address": "0x8a0d557BB132Dbe2C9Aa3CFb6Ef81eeE4107057a",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/bone.png"
+    },
+    {
+      "name": "GBoneToken",
+      "symbol": "GBONE",
+      "address": "0x004B122eb5632077abdD2C38e8d9392348d5cA15",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/gbone.png"
+    },
+    {
+      "name": "SpookyToken",
+      "symbol": "BOO",
+      "address": "0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/boo.png"
+    },
+    {
+      "name": "Boo MirrorWorld",
+      "symbol": "xBOO",
+      "address": "0xa48d959AE2E88f1dAA7D5F611E01908106dE7598",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/xboo.png"
+    },
+    {
+      "name": "NIPS",
+      "symbol": "NIPS",
+      "address": "0x667afbb7d558c3dfd20fabd295d31221dab9dbc2",
+      "chainId": 250,
+      "decimals": 9,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/nips.png"
+    },
+    {
+      "name": "Yorocoon",
+      "symbol": "YORO",
+      "address": "0xcf7e516e2dd67c3b0bd52266da41f403a0f19a07",
+      "chainId": 250,
+      "decimals": 9,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/yoro.png"
+    }
+  ]
+}
