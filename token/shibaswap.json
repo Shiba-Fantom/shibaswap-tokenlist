@@ -261,7 +261,7 @@
     {
       "name": "NIPS",
       "symbol": "NIPS",
-      "address": "0x667afbb7d558c3dfd20fabd295d31221dab9dbc2",
+      "address": "0x3a6a2f68f2d556446348028bc215d2f17cb5cc49",
       "chainId": 250,
       "decimals": 9,
       "logoURI": "https://swap.shibafantom.finance/images/coins/nips.png"
