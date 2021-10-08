@@ -267,12 +267,20 @@
       "logoURI": "https://swap.shibafantom.finance/images/coins/nips.png"
     },
     {
-      "name": "Yorocoon",
-      "symbol": "YORO",
-      "address": "0xcf7e516e2dd67c3b0bd52266da41f403a0f19a07",
+     "name": "TSHARE",
+     "symbol": "TSHARE",
+     "address": "0x4cdF39285D7Ca8eB3f090fDA0C069ba5F4145B37",
+     "chainId": 250,
+     "decimals": 18,
+     "logoURI": "https://swap.shibafantom.finance/images/coins/TSHARE.png"
+    },
+    {
+      "name": "TOMB",
+      "symbol": "TOMB",
+      "address": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
       "chainId": 250,
-      "decimals": 9,
-      "logoURI": "https://swap.shibafantom.finance/images/coins/yoro.png"
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/TOMB.png"
     }
   ]
 }
