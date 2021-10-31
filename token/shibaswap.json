@@ -267,6 +267,14 @@
       "logoURI": "https://swap.shibafantom.finance/images/coins/nips.png"
     },
     {
+      "name": "Fantom Cake",
+      "symbol": "FATCAME",
+      "address": "0x4a3DCE89cA816D4F10864664B6503df95a92d879",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.shibafantom.finance/images/coins/FATCAKE.png"
+    },
+    {
      "name": "TSHARE",
      "symbol": "TSHARE",
      "address": "0x4cdF39285D7Ca8eB3f090fDA0C069ba5F4145B37",
