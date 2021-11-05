@@ -283,6 +283,14 @@
      "logoURI": "https://swap.shibafantom.finance/images/coins/TSHARE.png"
     },
     {
+     "name": "Catoshi",
+     "symbol": "CATS",
+     "address": "0x64674D26df0Fd7cF8e9d5c8D721Bc202C6B98822",
+     "chainId": 250,
+     "decimals": 18,
+     "logoURI": "https://swap.shibafantom.finance/images/coins/Catoshi.png"
+    },
+    {
       "name": "TOMB",
       "symbol": "TOMB",
       "address": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
